@@ -20,7 +20,7 @@ The code demonstrates advanced performance tuning, memory coalescing, shared mem
 - **Credential ID:** `12283899-7cdb-4600-94f2-3491baee3add`
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/victor-rojas/AMD-ROCm-Certified-Associate-Labs/main/assets/AMD_ROCm_Certified_Associate.png" alt="AMD ROCm Certified Associate Badge" width="220"/>
+  <img src="https://raw.githubusercontent.com/Victor2511/AMD-ROCm-Certified-Associate-Labs/main/assets/AMD_ROCm_Certified_Associate.png" alt="AMD ROCm Certified Associate Badge" width="220"/>
 </p>
 
 ---
