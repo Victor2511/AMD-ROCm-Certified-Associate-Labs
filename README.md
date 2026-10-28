@@ -1,0 +1,1 @@
+# AMD-ROCm-Certified-Associate-Labs
